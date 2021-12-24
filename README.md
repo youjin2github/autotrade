@@ -33,8 +33,17 @@
 
 3. 💡[볼린저밴드분석]
     * [볼린저밴드 그래프 그리기](https://github.com/youjin2github/autotrade/blob/main/%EA%B7%B8%EB%9E%98%ED%94%84%EA%B7%B8%EB%A6%AC%EA%B8%B0.py)
+
+![그래프그리기](https://user-images.githubusercontent.com/86221508/147328438-17d3df4f-2f69-4ef3-b4f8-e583b8104cfe.PNG)
+
     * [밴드폭 그래프 그리기](https://github.com/youjin2github/autotrade/blob/main/%EB%B0%B4%EB%93%9C%ED%8F%AD%2Cpy)
+   
+![밴드폭](https://user-images.githubusercontent.com/86221508/147328488-f602f9fb-7a5a-42b2-90b0-9ff9c4c57a86.PNG)
+   
     * [%b 그래프 그리기](https://github.com/youjin2github/autotrade/blob/main/%25b.py)
+   
+ ![%b](https://user-images.githubusercontent.com/86221508/147328511-133aba67-d365-44b3-ae5f-4f6d062e38a2.PNG)
+   
     * [예상 수익률 backtest를 통해 확인](https://github.com/youjin2github/autotrade/blob/main/backtest.py)
 
 
@@ -48,3 +57,5 @@
 
 6. 👀[비트코인 가격 예측](https://github.com/youjin2github/TensorFlow/blob/main/%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8%20%EA%B0%80%EA%B2%A9%20%EC%98%88%EC%B8%A1.ipynb)
     * 쓰다보니 분량이 많아져서.. 일단 분리했다 위에 링크를 참고해주세용!
+![예측데이터시각화](https://user-images.githubusercontent.com/86221508/147328004-38b88183-e4a5-4f9b-aa9a-2ba35aca4fee.PNG)
+
