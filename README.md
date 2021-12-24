@@ -46,4 +46,5 @@
     * [AWS(UBUNTU)활용](https://ap-northeast-2.console.aws.amazon.com/ec2/v2/home?region=ap-northeast-2#Home:)
     * [해당 방법으로 실행!](https://github.com/youjin2github/autotrade/blob/main/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EC%84%9C%EB%B2%84%20AWS(UBUNTU))
 
-   
+6. [비트코인 가격 예측](https://github.com/youjin2github/TensorFlow/blob/main/%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8%20%EA%B0%80%EA%B2%A9%20%EC%98%88%EC%B8%A1.ipynb)
+    *쓰다보니 분량이 많아져서.. 일단 분리했다 위에 링크를 참고해주세용!
