@@ -33,19 +33,16 @@
 
 3. 💡[볼린저밴드분석]
     * [볼린저밴드 그래프 그리기](https://github.com/youjin2github/autotrade/blob/main/%EA%B7%B8%EB%9E%98%ED%94%84%EA%B7%B8%EB%A6%AC%EA%B8%B0.py)
+    * [밴드폭 그래프 그리기](https://github.com/youjin2github/autotrade/blob/main/%EB%B0%B4%EB%93%9C%ED%8F%AD%2C.py)
+    * [%b 그래프 그리기](https://github.com/youjin2github/autotrade/blob/main/%25b.py)
+    * [예상 수익률 backtest를 통해 확인](https://github.com/youjin2github/autotrade/blob/main/backtest.py)
 
 ![그래프그리기](https://user-images.githubusercontent.com/86221508/147328438-17d3df4f-2f69-4ef3-b4f8-e583b8104cfe.PNG)
 
-    * [밴드폭 그래프 그리기](https://github.com/youjin2github/autotrade/blob/main/%EB%B0%B4%EB%93%9C%ED%8F%AD%2Cpy)
-   
 ![밴드폭](https://user-images.githubusercontent.com/86221508/147328488-f602f9fb-7a5a-42b2-90b0-9ff9c4c57a86.PNG)
-   
-    * [%b 그래프 그리기](https://github.com/youjin2github/autotrade/blob/main/%25b.py)
-   
- ![%b](https://user-images.githubusercontent.com/86221508/147328511-133aba67-d365-44b3-ae5f-4f6d062e38a2.PNG)
-   
-    * [예상 수익률 backtest를 통해 확인](https://github.com/youjin2github/autotrade/blob/main/backtest.py)
 
+![%b](https://user-images.githubusercontent.com/86221508/147328511-133aba67-d365-44b3-ae5f-4f6d062e38a2.PNG)
+   
 
 4. 💡[변동성 돌파 전략]
     * [자동매매코드 => 유투버 : 조코딩 참조](https://github.com/youjin2github/autotrade/blob/main/bitcoinAutoTrade.py)
